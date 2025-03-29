@@ -2,7 +2,7 @@
     font-family: verdana, "DejaVu Sans", sans-serif;
     color: black;
     background: peachpuff;
-    font-size: 24px;
+    font-size: 26px;
 }
 
 .adjust-1 {
@@ -10,15 +10,15 @@
     background-color: aquamarine;
 }
 
-.even {
+#even {
     font-size: 26px;
     text-align: center;
     background: rgb(252, 194, 108);
     color: black;
 }
 
-#four {
-    font-size: 26px;
-    text-align:right;
+#adjust-2 {
+    font-size: 30px;
     background: rgb(255, 132, 208);
+    text-align: center;
 }
